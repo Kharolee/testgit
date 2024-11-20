@@ -1,1 +1,1 @@
-welcome
+today we are discussing git
