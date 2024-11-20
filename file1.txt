@@ -1,1 +1,3 @@
 today we are discussing git
+
+We will look at branches in git
